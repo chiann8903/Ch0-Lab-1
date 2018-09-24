@@ -2,6 +2,7 @@
 #include<stdlib.h>
 main(){
 	printf("welcome to c!\n");
+	printf("my name is Christine\n");
 	system("pause");
 	return 0;
 }
